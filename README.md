@@ -1,2 +1,2 @@
 # solid-funicular
-Exemplo de JUnit
+Exemplo de JUnit com Maven
